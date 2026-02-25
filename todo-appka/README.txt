@@ -1,5 +1,13 @@
 # Lista Todo
 
+React – frontend
+
+FastAPI – backend
+
+SQLAlchemy – ORM , praca z bazą danych przy użyciu obiektów
+
+SQLite – baza danych
+
 ##  Przygotowanie środowiska
 cd ..\todo-appka\backend
 python -m venv venv # instalacja środowiska
